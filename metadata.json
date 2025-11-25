@@ -1,0 +1,7 @@
+{
+  "name": "VoxAgent - AI Voice Assistant",
+  "description": "A conversational voice agent that manages phone calls, maintains context, and builds long-term memory using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
